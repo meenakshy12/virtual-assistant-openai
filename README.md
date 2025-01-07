@@ -1,6 +1,6 @@
 # Open AI Virtual Assistant
 
-This repository contains the **client-side code** (client) and the **backend** (api) for the project.
+This repository contains the **frontend** (client) and the **backend** (api) for the project.
 
 ---
 
