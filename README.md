@@ -13,7 +13,7 @@ The client-side code is structured as follows:
 
 
 ### Backend Code (api)
-The API folder contains:
+The api folder contains:
 
 server.js # Main server file package.json # Project dependencies and scripts vercel.json # Configuration file for deployment on Vercel .gitignore # Files and folders to ignore in Git
 
