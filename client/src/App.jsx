@@ -6,6 +6,8 @@ import user from "./assets/user.png";
 import bot from "./assets/assistant.png";
 import loadingIcon from "./assets/loader.svg";
 
+// app.jsx
+
 function App() {
     const [input, setInput] = useState("");
     const [posts, setPosts] = useState([]);
