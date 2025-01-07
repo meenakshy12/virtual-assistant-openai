@@ -43,37 +43,36 @@ OPENAI_API_KEY=your_openai_api_key
 ### 1. Clone the Repository
 To clone the repository, run:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/meenakshy12/virtual-assistant-openai.git
 
 Running the Project
 client (Frontend)
-Open a terminal and navigate to the client folder:
 
+Open a terminal and navigate to the client folder:
 cd client
+
 Install dependencies:
 npm install
-Start the development server:
 
+Start the development server:
 npm run dev
 
-The frontend will be available at:
+The frontend will be available at: http://localhost:5173/
 
 
-http://localhost:5173/
+
 api (Backend)
-Open another terminal and navigate to the api folder:
 
+Open another terminal and navigate to the api folder:
 cd api
 
 Install dependencies:
-
 npm install
 
 Start the server:
-
 npm start
-The backend will be available at:
 
+The backend will be available at:
 http://localhost:4000/
 
 Notes
